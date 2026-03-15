@@ -12,8 +12,8 @@ socketio = SocketIO(app)
 users = {
     "BAHADIR": "3648",
     "BIDIK": "2392",
-    "ahmet": "1111",
-    "mehmet": "2222"
+    "Yetiş": "1234",
+    "Salih": "2222"
 }
 
 if not os.path.exists(app.config['UPLOAD_FOLDER']):
