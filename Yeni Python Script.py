@@ -13,7 +13,7 @@ users = {
     "BAHADIR": "3648",
     "BIDIK": "2392",
     "Yetiş": "1234",
-    "Salih": "2222"
+    "Bayvampir: "1235"
 }
 
 if not os.path.exists(app.config['UPLOAD_FOLDER']):
